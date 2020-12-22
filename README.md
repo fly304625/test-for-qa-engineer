@@ -6,11 +6,12 @@
 6. При сложении 5+2, может ли быть получен результат 52, и если да, то почему? 
 7. Какую ошибку содержит код представленный ниже:
 ```
-<div>
+<div class="form">
   <p>
     Enter your full name: <input type="text" name="fullname">
     <input type="submit" value="Send data">
   </p>
 </form>
+</div>
 ```
 8.
